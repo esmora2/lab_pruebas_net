@@ -1,0 +1,46 @@
+# Archivos de configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración del sistema operativo
+*.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos de configuración de paquetes
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos generados automáticamente por herramientas de .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.iobj
+*.ipdb
+*.log
+*.obj
+*.tmp
+*.tmp_proj
+*.sln*
+*.suo
+*.userprefs
+
+# Archivos específicos de Rider/JetBrains
+.idea/
+*.iml
